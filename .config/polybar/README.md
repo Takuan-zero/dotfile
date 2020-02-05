@@ -17,3 +17,11 @@ For more information, see https://github.com/jaagr/polybar/wiki
 
 To create symbolic link:
 ln -s ~/dotfile/.config/polybar/config ~/.config/polybar/config  
+
+
+Dependences: 
+  - termsyn-font
+  - siji-git
+
+  - xorg-fonts-misc
+  - xorg-xfd
