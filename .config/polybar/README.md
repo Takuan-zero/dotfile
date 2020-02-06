@@ -25,3 +25,5 @@ Dependences:
 
   - xorg-fonts-misc
   - xorg-xfd
+
+If no icons displayed: rm /etc/fonts/conf.d/70-no-bitmaps.conf
